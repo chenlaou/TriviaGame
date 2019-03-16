@@ -1,0 +1,45 @@
+body {
+	background-image: url(../images/bg2copy.jpg);
+	background-size: cover;
+  }
+
+
+  #end-page {
+	display: none;
+  }
+
+ h1 {
+	text-align: center;
+	 margin-top: 40px;
+	font-family: 'Margarine', cursive;
+  }
+
+  p{
+	text-align: center;
+	font-family: 'Markazi Text', serif;
+}
+  
+  
+  #end-page p {
+	font-size: 20px;
+  }
+  
+  #correct-answers {
+	margin-top: 32px;
+  }
+  
+  #question {
+	margin-top: 32px;
+	font-size: 20px;
+	font-weight: 500;
+  }
+  
+  #timer {
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  
+  #done-button {
+	margin-top: 20px;
+  }
